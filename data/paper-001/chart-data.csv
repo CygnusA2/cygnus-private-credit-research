@@ -1,0 +1,8 @@
+config,correct,incorrect,failed_to_answer,denominator,source
+Llama 2 · shared store,29,104,17,150,FinanceBench 2023 Table 2
+GPT-4 Turbo · shared store,29,20,101,150,FinanceBench 2023 Table 2
+Llama 2 · filing-specific store,62,81,7,150,FinanceBench 2023 Table 2
+GPT-4 Turbo · filing-specific store,75,17,58,150,FinanceBench 2023 Table 2
+Claude 2 · long context,114,32,4,150,FinanceBench 2023 Table 2
+GPT-4 Turbo · long context,118,26,6,150,FinanceBench 2023 Table 2
+GPT-4 Turbo · evidence-page oracle,128,22,0,150,FinanceBench 2023 Table 2
