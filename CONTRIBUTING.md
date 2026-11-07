@@ -1,9 +1,7 @@
-# Contributing and public discussion
+# Contributions
 
-Suggestions for public research topics, factual corrections and source references are welcome through GitHub Issues.
+We welcome public suggestions, peer-review questions, reproducible references and corrections **specifically about AI models applied to private-credit and financial-evidence tasks**.
 
-Please **do not submit confidential client details, non-public financial documents, API keys, proprietary algorithms or personal data**. The public repository is visible to everyone.
+Do not submit confidential portfolio records, customer information, unpublished model prompts, access tokens, restricted datasets or vulnerability details. This is a public repository.
 
-Research contributions should include public data sources, a clear date, methodology and limitations. Submissions may be reviewed, edited or declined to preserve source quality and confidentiality. Nothing is automatically accepted or published as an official Cygnus-A² research conclusion.
-
-For responsible vulnerability reporting, do not open a public issue containing exploit details or secrets. Contact the organization through its official channels.
+A proposed external research contribution should identify the model, test version, lawful data source, measurement method, limitations and whether it is conceptual or measured. No benchmark performance statistics are published without editorial approval.

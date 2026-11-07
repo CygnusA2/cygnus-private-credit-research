@@ -1,19 +1,18 @@
-# Public research index
+# Public model research index
 
-| Date | Publication | Category | Status |
-|---|---|---|---|
-| 2026-11 | [Evidence quality in private-credit decisions](2026-11-evidence-quality-private-credit.md) | Private credit / financial AI | Published educational primer |
+| Date | Publication | Type |
+|---|---|---|
+| 2026-11 | [What makes a financial AI model trustworthy?](2026-11-financial-model-evaluation-agenda.md) | Research agenda; no benchmark claims |
+| 2026-11 | [Correct financial arithmetic is not enough](2026-11-arithmetic-vs-evidence.md) | Educational model-evaluation primer |
 
-## Upcoming research themes (not yet published)
+## Research in preparation — not yet released
 
-- Financial information provenance and uncertainty in credit underwriting
-- Asset liquidity and collateral-risk classifications
-- The difference between evidence reconciliation and automated credit decisions
-- Benchmark design principles for AI in financial workflows
-- Credit cycles, portfolio resilience and liquidity needs
+- Structured model comparisons on private-credit calculations
+- Model responses to contradictory and malformed evidence
+- Abstention quality and unsupported-credit-claim detection
+- The impact of reasoning-token budgets on output reliability
+- Latency, cost and reliability of financial AI systems
 
-Entries listed as upcoming are **topic proposals only**, not conclusions or claims of completed research.
+**No numerical findings or comparative claims are announced by listing an upcoming study.** Any public performance report needs founder review of its exact text and supporting evidence.
 
-## Reading guide
-
-Future evidence-based pieces will link directly to public first-party datasets and clearly explain the sample, calculations, date and limits. Proprietary internal experimental work is not automatically eligible for release.
+[Methodology](../methodology/RESEARCH-STANDARDS.md) · [Editorial policy](../EDITORIAL-POLICY.md)

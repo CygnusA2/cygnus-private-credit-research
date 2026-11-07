@@ -1,26 +1,18 @@
-# Editorial, sourcing and correction policy
+# Editorial and Research Publication Policy
 
-## Evidence levels
+**Exclusive topic:** empirical and conceptual AI model research relevant to private credit, collateral intelligence and financial evidence. This repository is not a general lending-market news publication or product brochure.
 
-Each article should label its content appropriately:
-- **Documented fact:** clear authoritative public source, publication date, period and units.
-- **Analysis:** the authors' interpretation of identified facts and assumptions.
-- **Illustrative scenario:** invented or hypothetical, never presented as customer evidence.
-- **Model experiment:** only when methodology, dataset rights, version, measured denominator and limitations are fully reviewed and expressly cleared for public release.
+A public research artifact must be classified as conceptual, exploratory measured, comparative measured or production-validated. Never infer model performance from synthetic offline replay, example calculations, undocumented financial labels or marketing materials.
 
-## Publication safeguards
+### Release checklist
+1. Source rights, provenance and licenses verified.
+2. Claim denominators, configurations and methods clear.
+3. All numerical and safety failures accounted for.
+4. Provider pricing estimates separated from confirmed billing.
+5. Proprietary THAL3S 16/FIP/TCIB code, benchmark examples, grading rules, unreleased model results and trade secrets excluded.
+6. Exact publication, including charts and social excerpts, explicitly approved by the founder.
+7. Corrections and revisions retained transparently.
 
-- No internal repositories, credentials, unreleased FIP/TCIB methods, nonpublic metrics, raw model reasoning, provider-licensed data, customer financial records or protected risk thresholds.
-- Do not claim statistical superiority from convenience samples or selected failures.
-- Distinguish financial arithmetic, evidence validity, operational safety and actual underwriting results.
-- Use original writing or properly licensed figures. Credit third-party sources; never assume charts or copyrighted material are reusable.
-- Public Git history may permanently reveal content; review exact changes before committing.
-- Any future announcement with experimental metrics requires founder approval of the exact public version.
+Public readability is not a release authorization for any internal dataset or experiment. Information from the private knowledge vault is never auto-copied here.
 
-## Corrections
-
-Every numerical factual correction should state the change, date and affected article. Retain a transparent record; do not silently erase substantive errors.
-
-## Editorial positioning
-
-This is a public research publication, not an offer to lend, token offering, an investment recommendation or a claim that exploratory AI systems are production-ready.
+Research content is educational; it does not constitute lending, investment or legal advice.
